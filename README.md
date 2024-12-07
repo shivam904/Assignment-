@@ -1,5 +1,5 @@
 
-# Task Manager React Application
+# Kanban Board using React
 
 A React-based application for managing tasks with features like adding, searching, and organizing tasks via drag-and-drop functionality.
 
